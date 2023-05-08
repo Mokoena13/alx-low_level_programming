@@ -271,7 +271,7 @@ void close_elf(int elf)
  *        ELF header at start of ELF file.
  * @argc: num of arguments supplied to program.
  * @argv: An array of pointers to arguments.
- * Return: 0 
+ * Return: 0
  * Description: If the file is not an ELF File or
  *              the function fails - exit code 98.
  */
